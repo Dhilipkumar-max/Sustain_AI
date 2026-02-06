@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Background circle -->
+  <circle cx="250" cy="250" r="240" fill="#f0f9f7" stroke="#17a2b8" stroke-width="8"/>
+  
+  <!-- Teal outer ring -->
+  <circle cx="250" cy="250" r="220" fill="none" stroke="#17a2b8" stroke-width="25" opacity="0.8"/>
+  
+  <!-- Orange wave/swoosh -->
+  <path d="M 150 200 Q 200 150 280 180 Q 320 200 340 250 Q 320 200 280 180 Q 200 150 150 200" fill="#ff9800" opacity="0.9"/>
+  
+  <!-- Blue water wave at bottom -->
+  <path d="M 150 280 Q 200 320 280 300 Q 350 280 380 250 Q 350 300 280 300 Q 200 320 150 280" fill="#0d47a1" opacity="0.8"/>
+  
+  <!-- Green leaves -->
+  <g id="leaves">
+    <!-- Left leaf -->
+    <ellipse cx="180" cy="160" rx="30" ry="50" fill="#4caf50" transform="rotate(-30 180 160)" opacity="0.9"/>
+    <path d="M 180 130 Q 190 160 180 190" stroke="#2e7d32" stroke-width="2" fill="none"/>
+    
+    <!-- Top right leaf -->
+    <ellipse cx="310" cy="120" rx="28" ry="55" fill="#66bb6a" transform="rotate(45 310 120)" opacity="0.9"/>
+    <path d="M 300 80 Q 315 120 310 160" stroke="#2e7d32" stroke-width="2" fill="none"/>
+    
+    <!-- Middle right leaf -->
+    <ellipse cx="340" cy="180" rx="26" ry="52" fill="#4caf50" transform="rotate(60 340 180)" opacity="0.85"/>
+    <path d="M 330 140 Q 350 180 340 220" stroke="#2e7d32" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Center stem -->
+  <path d="M 250 280 Q 248 200 245 120" stroke="#7cb342" stroke-width="6" fill="none" opacity="0.8"/>
+  
+  <!-- Center decorative circle -->
+  <circle cx="250" cy="250" r="40" fill="none" stroke="#17a2b8" stroke-width="3" opacity="0.5"/>
+</svg>
