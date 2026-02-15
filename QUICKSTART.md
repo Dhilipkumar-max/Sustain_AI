@@ -5,6 +5,7 @@
 Your Flutter SustainAI app is ready to run! Here's what has been set up:
 
 ### 📦 Installed Packages
+- ✅ Flutter (Frontend)
 - ✅ supabase_flutter (Backend & Auth)
 - ✅ provider (State Management)
 - ✅ google_fonts (Typography)
