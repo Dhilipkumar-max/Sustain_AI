@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class AppTheme {
-  // Primary Colors - Teal/Sustainabilit
+  // Primary Colors - Teal/Sustainability
   static const Color primary50 = Color(0xFFf0fdfa);
   static const Color primary100 = Color(0xFFccfbf1);
   static const Color primary200 = Color(0xFF99f6e4);
