@@ -8,7 +8,7 @@
 
 **A comprehensive sustainability platform built with Flutter and Supabase**
 
-*Recreating the React version with identical UI/UX and functionalit*
+*Recreating the React version with identical UI/UX and functionality*
 
 [Features](#-features) • [Getting Started](#-getting-started) • [Screenshots](#-screenshots) • [Documentation](#-project-structure)
 
