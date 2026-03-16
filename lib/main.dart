@@ -16,7 +16,7 @@ import 'package:sustainai_flutter/features/predictive/screens/predictive_screen.
 import 'package:sustainai_flutter/features/monitor/screens/monitor_screen.dart';
 import 'package:sustainai_flutter/features/wellbeing/screens/wellbeing_checkin_screen.dart';
 
-void main() async {
+void main() asyn {
   WidgetsFlutterBinding.ensureInitialized();
   
   // Initialize Supabase
